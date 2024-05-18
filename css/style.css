@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(91, 98, 220);
+}
+
+.quotes h1 {
+  font-size: 5rem;
+  font-family: Impact;
+  margin: 3.35rem 0;
+  font-weight: bold;
+}
+
+.quotes p {
+  font-size: 2.1875rem;
+  margin: 2.1875rem 0;
+  font-family: "Times ";
+}
+
+.quotes button {
+  width: 15.625rem;
+  height: 5rem;
+}
